@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kissan Mitra",
+  "description": "An AI-powered agent providing comprehensive farming information for vegetables, including cultivation guides, market prices, cost analysis, and a land profitability calculator.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
